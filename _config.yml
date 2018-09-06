@@ -21,3 +21,5 @@ google: parkdg1010@gmail
 
 author: 
 authorBio: 
+
+{{site.categories.[2]}}
