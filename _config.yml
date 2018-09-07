@@ -13,7 +13,7 @@ baseurl: "https://parkdg1010.github.io/" # the subpath of your site, e.g. /blog
 url: "https://parkdg1010.github.io/"
 # When developing, set this ^ equal to whatever localhost you're using
 
-# Socail Media links
+# Social Media links
 # Use these to link users to your organization's social media sites
 github: https://github.com/parkdg1010
 facebook:
