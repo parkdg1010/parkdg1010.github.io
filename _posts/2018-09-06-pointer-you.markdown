@@ -3,11 +3,11 @@ layout: post
 title:  "포인터. 하.. 너란녀석"
 date:   2018-09-06 21:14:00
 description: 포인터에 대한 내 착각
-thumbnail: point.jpg
+thumbnail: person1.jpeg
 categories: category1
 
 # Information for the author block
-author: 
+author: 박동건
 ---
 링크드리스트의 delete(data)를 구현하던 중 
 data의 주소를 가리키는 포인터변수만 NULL로 초기화하고선 왜 data가 삭제되지 않는지 고민했다.
@@ -23,7 +23,4 @@ data의 주소를 가리키는 포인터변수만 NULL로 초기화하고선 왜 data가 삭제되지 않는�
 통해 데이터를 접근하고 관리 할 수 있는것이지 그 데이터에 직접 붙인 이름은 아닌것이다.
 또한 delete키워드는 그 포인터가 기리키고 있는 데이터를 삭제하는 것이지 포인터변수를 NULL로 초기화 하는게 아니다.
 
-<!--  링크거는법 : [링크할 텍스트][link1]-->
-[link1]: example.net
-[link2]: example.com
-[link3]: example.org
+
